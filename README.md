@@ -18,6 +18,6 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 
 
 ### Aufgabe 1
-* [CIFAR10 Challenge](https://colab.research.google.com/github/keuperj/DeepLearning24/blob/main/week_1/CIFAR10-ShallowLearning.ipynb)
+* [CIFAR10 Challenge](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_1/CIFAR10-ShallowLearning.ipynb)
 
 </details>
